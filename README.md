@@ -44,15 +44,15 @@ Yes, finally.
 
 Some improvements in runtime:
 
-..* gc pause (< 1ms)
-..* build (15% speedup)
-..* defer (10-35% speedup)
-cgo..* (45% speedup)
+gc pause (< 1ms)
+build (15% speedup)
+defer (10-35% speedup)
+cgo (45% speedup)
 
 # SSA improvements
 
-..* 20-30% reduction in binary size
-..* 5-35% speedup
+ 20-30% reduction in binary size
+ 5-35% speedup
 
 # Default $GOPATH
 
